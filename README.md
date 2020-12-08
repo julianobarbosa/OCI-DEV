@@ -16,7 +16,7 @@ O workshop irá compreender os seguintes conceitos:
 Esperamos que, ao final deste workshop, o participante possa entender esses conceitos e praticar cada vez mais neste mundo de aplicações distribuídas.
 
 
-Este material foi baseado em materiais já existentes **Oracle** (vide seção **Referências** ao final) e foi organizado especialmente para tornar a experiência prática deste workshop mais agradável. O material original se encontra em inglês.
+Este material foi baseado em materiais já existentes **Oracle** (vide seção [**Referências**]() ao final) e foi organizado especialmente para tornar a experiência prática deste workshop mais agradável. O material original se encontra em inglês.
 
 Observação: Este material faz referência às imagens ilustrativas originais, portanto, se a imagem não aparecer neste material, provavelmente é porque o material original foi reformulado por algum motivo. Pode ser que este motivo seja uma mudança de versão do tutorial ou mesmo do recurso cloud (OKE, OCIR, OCI CLI, etc). Agradeço imensamente se puder avisar, pois poderemos atualizar este material com mais velocidade.
 
@@ -1092,10 +1092,10 @@ Descrição da ilustração
 
 Referências:
 
-- https://www.oracle.com/webfolder/technetwork/tutorials/obe/oci/oke-full/index.html
-- https://www.oracle.com/webfolder/technetwork/tutorials/obe/oci/registry/index.html
-- https://www.oracle.com/webfolder/technetwork/tutorials/obe/oci/oke-and-registry/index.html
-- https://docs.cloud.oracle.com/en-us/iaas/Content/API/Concepts/apisigningkey.htm#two
+- [https://www.oracle.com/webfolder/technetwork/tutorials/obe/oci/oke-full/index.html](https://www.oracle.com/webfolder/technetwork/tutorials/obe/oci/oke-full/index.html)
+- [https://www.oracle.com/webfolder/technetwork/tutorials/obe/oci/registry/index.html](https://www.oracle.com/webfolder/technetwork/tutorials/obe/oci/registry/index.html)
+- [https://www.oracle.com/webfolder/technetwork/tutorials/obe/oci/oke-and-registry/index.html](https://www.oracle.com/webfolder/technetwork/tutorials/obe/oci/oke-and-registry/index.html)
+- [https://docs.cloud.oracle.com/en-us/iaas/Content/API/Concepts/apisigningkey.htm#two](https://docs.cloud.oracle.com/en-us/iaas/Content/API/Concepts/apisigningkey.htm#two)
 
 Projeto como Exemplo:
 - Java: https://github.com/hoshikawa2/oraclejavasoapkubernetes
